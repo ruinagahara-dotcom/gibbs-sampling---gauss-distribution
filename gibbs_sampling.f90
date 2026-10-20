@@ -12,7 +12,7 @@
 
 	program gibbs_sampling
 	
-	
+	real(8) a
 	
 	
 	end program gibbs_sampling
